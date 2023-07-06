@@ -7,12 +7,6 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=SyBeRGEN&theme=dark)](https://git.io/streak-stats)
 
-
-## Top projects:
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SyBeRGEN&repo=ShareIt)](https://github.com/SyBeRGEN/ShareIt)
-
-
 ## Connect with me:
 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/SyBeRGEN) 
